@@ -1,6 +1,6 @@
 <!-- 🩷 Banner principal -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IlseRueda/IlseRueda/main/img/hello kitty banner.png" alt="Hello Kitty Developer Banner" width="700"/>
+  <img src="https://raw.githubusercontent.com/IlseRueda/IlseRueda/main/img/hello-kitty-banner.png" width="700"/>
 </p>
 
 # 👋 ¡Hola! Soy Ilse Rueda
