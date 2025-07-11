@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/IlseRueda/IlseRueda/main/img/hello-kitty-banner.png" width="700"/>
 </p>
 
-# 👋 ¡Hola! Soy Ilse Rueda
+# 👋 ¡Hola! Soy Ilse Ameyali Rueda Hernández
 
 🎓 Egresada de Ingeniería en Informática
 💻 Apasionada por el desarrollo frontend con diseño creativo  
